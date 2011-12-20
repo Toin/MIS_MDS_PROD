@@ -1,0 +1,14 @@
+C:\Users\toin\Documents\Visual Studio 2008\Projects\MIS_MDS_Prod\MIS_MDS_Prod\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Users\toin\Documents\Visual Studio 2008\Projects\MIS_MDS_Prod\MIS_MDS_Prod\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Users\toin\Documents\Visual Studio 2008\Projects\MIS_MDS_Prod\MIS_MDS_Prod\obj\Debug\MIS_MDS_Prod.vbproj.ResolveComReference.cache
+C:\Users\toin\Documents\Visual Studio 2008\Projects\MIS_MDS_Prod\MIS_MDS_Prod\bin\Debug\MIS_MDS_Prod.exe
+C:\Users\toin\Documents\Visual Studio 2008\Projects\MIS_MDS_Prod\MIS_MDS_Prod\bin\Debug\MIS_MDS_Prod.pdb
+C:\Users\toin\Documents\Visual Studio 2008\Projects\MIS_MDS_Prod\MIS_MDS_Prod\bin\Debug\MIS_MDS_Prod.xml
+C:\Users\toin\Documents\Visual Studio 2008\Projects\MIS_MDS_Prod\MIS_MDS_Prod\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Users\toin\Documents\Visual Studio 2008\Projects\MIS_MDS_Prod\MIS_MDS_Prod\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Users\toin\Documents\Visual Studio 2008\Projects\MIS_MDS_Prod\MIS_MDS_Prod\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\toin\Documents\Visual Studio 2008\Projects\MIS_MDS_Prod\MIS_MDS_Prod\obj\Debug\MIS_MDS_Prod.Resources.resources
+C:\Users\toin\Documents\Visual Studio 2008\Projects\MIS_MDS_Prod\MIS_MDS_Prod\obj\Debug\MIS_MDS_Prod.vbproj.GenerateResource.Cache
+C:\Users\toin\Documents\Visual Studio 2008\Projects\MIS_MDS_Prod\MIS_MDS_Prod\obj\Debug\MIS_MDS_Prod.exe
+C:\Users\toin\Documents\Visual Studio 2008\Projects\MIS_MDS_Prod\MIS_MDS_Prod\obj\Debug\MIS_MDS_Prod.xml
+C:\Users\toin\Documents\Visual Studio 2008\Projects\MIS_MDS_Prod\MIS_MDS_Prod\obj\Debug\MIS_MDS_Prod.pdb
